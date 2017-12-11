@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="cnn1-Web.config Connection String" description="cnn1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL7003.site4now.net;Initial Catalog=DB_A2F7FB_mahmoudosman;User Id=DB_A2F7FB_mahmoudosman_admin;Password=mahmoud01289456;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Mahmoud\ Abo\ Ghanam\\Documents\\Visual\ Studio\ 2013\\Projects\\restraunt\\restraunt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cnn1']/@connectionString" />
+  </parameter>
+</parameters>
